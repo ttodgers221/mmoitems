@@ -1,6 +1,6 @@
 # MMOItems
 
-MMOItems is a complex item solution for minecraft servers which introduces many unique features like damage mitigation, gem stones, item abilities, item deconstruction, soulbound and item identification. MMOItems also features more than 90 unique item options (tags, stats, display options..) and 70 item abilities.
+MMOItems is a complex item solution for minecraft servers which introduces many unique features like damage mitigation, gem stones, item abilities, item deconstruction, soulbound and item identification. MMOItems also features 90 unique item options (tags, stats, display options..) and 70 item abilities.
 
 You can open a ticket on GitHub to write a suggestion. Most of the suggestions I planned to implement can be seen on the project trello: https://trello.com/b/zu8cubGY/mmoitems
 
