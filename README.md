@@ -9,6 +9,7 @@ This resource is available on Spigot for 14€, you can get it here: https://www
 ---
 
 **When reporting an issue, make sure that..**
+- you have read the **installation guide** over the wiki.
 - the issue is not caused by another plugin. If you think that it is a compatibility issue, try temporarily disabling other plugins and see if it fixes the issue.
 - you specify **exactly** how to reproduce the issue. An under-detailed issue will be marked `invalid` till sufficient information is given.
 - you include **every** of the MMOItems console logs and other linked logs. If you are unsure of what logs are linked to your issue, just paste the entire server logs using a pastebin. The more information the better.
