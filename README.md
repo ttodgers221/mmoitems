@@ -14,3 +14,4 @@ This resource is available on Spigot for 14€, you can get it here: https://www
 - you specify **exactly** how to reproduce the issue. An under-detailed issue will be marked `invalid` till sufficient information is given.
 - you include **every** of the MMOItems console logs and other linked logs. If you are unsure of what logs are linked to your issue, just paste the entire server logs using a pastebin. The more information the better.
 - you went through your entire server logs (search for the "MMOItems" pattern using a text editor) looking for either **start-up, on-join, or on-load** plugin errors. Plugin issues are often related to these types of errors.
+- you went through the update changelogs you missed on SpigotMC, there happens to be sometimes manual config updates: https://www.spigotmc.org/resources/39267/updates
