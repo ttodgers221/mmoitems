@@ -4,7 +4,7 @@ MMOItems is a complex item solution for minecraft servers which introduces many 
 
 You can open a ticket on GitHub to write a suggestion. Most of the suggestions I planned on implementing can be seen on the project trello: https://trello.com/b/zu8cubGY/mmoitems
 
-This resource is available on Spigot for 14€, you can get it here: https://www.spigotmc.org/resources/39267/. If you would like to try it first before buying it, you might consider downloading the lite version (older build) here: https://www.spigotmc.org/resources/60876/
+This resource is available on Spigot for 18€, you can get it here: https://www.spigotmc.org/resources/39267/. If you would like to try it first before buying it, you might consider downloading the lite version (older build) here: https://www.spigotmc.org/resources/60876/
 
 ---
 
